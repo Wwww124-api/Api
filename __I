@@ -1,3 +1,4 @@
+https://github.com/กิติคุณยูนิฟอร์ม
 export type SliderConfig = {
 	Min : number,
 	Max : number,
